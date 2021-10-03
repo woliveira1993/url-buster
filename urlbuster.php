@@ -25,7 +25,7 @@ $saida = $argv[3];
 	if(empty($wordlist)){
 		echo "\n\n\n $verde";
 		echo "| [+] URL Buster - https://github.com/woliveira1993                    \n";
-		echo "| [/] Modo: [ exploit.php alvo.com wordlist.txt saida.txt ]    $reset  \n";
+		echo "| [/] Modo de uso: [ php urlbuster.php alvo.com wordlist.txt saida.txt ]    $reset  \n";
 	} elseif(empty($saida)){
 		$fp = file($wordlist);
 		$array = array_map('trim', $fp);
