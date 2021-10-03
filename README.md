@@ -6,5 +6,4 @@ procura arquivos e diretorios a partir de uma wordlist
     [/] Modo de uso: [ php urlbuster.php www.alvo.com wordlist.txt saida.txt ]
     
     
-    
-    <img src="https://image.prntscr.com/image/Iqof14mbRO65NlfIyfC5QA.png">
+ <img src="https://image.prntscr.com/image/Iqof14mbRO65NlfIyfC5QA.png">
